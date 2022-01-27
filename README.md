@@ -1,7 +1,6 @@
 <p align="left"> <a href="https://twitter.com/wshrayane" target="blank"><img src="https://img.shields.io/twitter/follow/wshrayane?logo=twitter&style=for-the-badge" alt="wshrayane" /></a> </p>
 
 <p align="left">
-<a href="https://dev.to/wshrayane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wshrayane" height="30" width="40" /></a>
 <a href="https://twitter.com/wshrayane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wshrayane" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/wshrayane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wshrayane" height="30" width="40" /></a>
 <a href="https://discord.gg/rayane#2792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rayane#2792" height="30" width="40" /></a>
